@@ -1,3 +1,3 @@
-# Building a Bluetooth Controlled Car
+#Shannon Daniels
 CS207 Project
-Shannon Daniels
+Building a Bluetooth Controlled Car
