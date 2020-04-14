@@ -1,5 +1,7 @@
 # Building a Bluetooth Controlled Car (Version 1)
 
+![COMPLETED CAR](https://user-images.githubusercontent.com/60757277/79197278-add00100-7dee-11ea-9e2c-2aa0d03accb8.JPG)
+
 The reason for creating this repository is for my Computer Science 207 project on how to build a Bluetooth controlled car using an Arduino and your mobile device. This is created from an example from the Arduino Project Hub that was done by Saman Fernando as well as Janak13. The only twist to the project is that the car senses when it is about to hit something and stops. 
 The car will be controlled by your mobile device in this case I used an Android phone to control the car, because the app was not available on Apple. This was then connected to an Arduino UNO as well as a Bluetooth (HC06) and a Motor Driver (L298N), as well as an Ultra Sonic Distance Sensor (HC-SR04).
 This project is for my class as mentioned and I thought it would be an easy project to try and to challenge myself a little as I am new to coding and building and using an Arduino. I thought it would be a fun project that my friend’s son could use in the future. However, because of the Coronavirus I had my friend drive the car instead because I could not go over to my other friend’s house.
