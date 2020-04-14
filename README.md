@@ -7,13 +7,10 @@ The car will be controlled by your mobile device in this case I used an Android 
 This project is for my class as mentioned and I thought it would be an easy project to try and to challenge myself a little as I am new to coding and building and using an Arduino. I thought it would be a fun project that my friend’s son could use in the future. However, because of the Coronavirus I had my friend drive the car instead because I could not go over to my other friend’s house.
 
 ## Respository Contents
-
-- hardware - All the files for how the project was designed
-- build - Files that are compiled and ready to run/upload
 - img - Images used in the README.md file
 - LICENSE - The license file
-- README.md - Currentl file being read
-- src - Software used to control the car
+- README.md - Current file being read
+- src - Code ready to upload to Arduino
 
 ## Requirements and Materials
 This is all the materials used to complete the build:
